@@ -37,9 +37,8 @@
 			</a>
 		</li>
 		{% endif %}
-	</ul>
-	<ul id="contact-list-secondary" class="list-unstyled list-inline">
-		{% if site.author.pinterest %}
+		
+                {% if site.author.pinterest %}
 		<li>
 			<a class="btn btn-default btn-sm" href="https://pinterest.com/{{ site.author.pinterest }}">
 				<i class="fa fa-pinterest fa-lg"></i>
@@ -59,5 +58,14 @@
 			</a>
 		</li>
 	</ul>
-</div>
+ </div>
+ <br/><br/>
+ <div>Quick Links</div>
+ <ul class="sidebarlist">
+   {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+   {% endfor %}
+ </ul>
 <!-- sidebar.html end -->
