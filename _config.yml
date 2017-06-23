@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
-disqus: arsonistgopher-github-io-1
+disqus: arsonistgopher-github-io
 google_analytics: arsonistgopher
 title: The Arsonist Gopher
 
