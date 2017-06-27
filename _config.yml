@@ -6,7 +6,7 @@ exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
 disqus: arsonistgopher
-google_analytics: arsonistgopher
+google_analytics: UA-101738033-1
 title: The Arsonist Gopher
 
 defaults:
