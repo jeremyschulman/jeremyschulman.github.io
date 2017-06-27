@@ -12,7 +12,7 @@ comments: true
 
 A super short word on [Iota](https://github.com/golang/go/wiki/Iota#summary) with Golang.
 
-Sometime back I was creating a UDP application that presented a basic JSON-API. This application was split in to multiple packages and I needed to use consistant JSON operation verb codes in each.
+Sometime back I was creating a UDP application that presented a basic JSON-API. This application was split in to multiple packages and I needed to use consistent JSON operation verb codes in each.
 
 <!--more-->
 
