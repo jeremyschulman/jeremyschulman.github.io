@@ -334,4 +334,5 @@ This is a great starting point and set of foundations for Ghost2logger.
 Access to the code and all of the various files (Dockerfile, systemd service, binaries and main.go) is all via [GitHub](https://github.com/arsonistgopher/ghost2logger/tree/master/scratches/scratch1).
 
 #### Useful Reading for Part 1
-1.  https://docs.google.com/document/d/1Bz5-UB7g2uPBdOx-rw5t9MxJwkfpx90cqG9AFL0JAYo/edit
+This is the Google document for the Go vendor experiment introduced in 1.5.
+[https://docs.google.com/document/d/1Bz5-UB7g2uPBdOx-rw5t9MxJwkfpx90cqG9AFL0JAYo/edit](https://docs.google.com/document/d/1Bz5-UB7g2uPBdOx-rw5t9MxJwkfpx90cqG9AFL0JAYo/edit)
