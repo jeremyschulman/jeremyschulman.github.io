@@ -14,6 +14,8 @@ Memory leaks, CPU spikes and race conditions upset me so I try my absolute best 
 
 <!--more-->
 
+[![Everything Is AWESOME]({{ site.url }}/assets/media/gopsvideostatic.png)](https://www.youtube.com/watch?v=OCRr8qpnPlY "Gops & InfluxDB")
+
 For a while, I knew of gops but didn't really do a lot with it. The same is true of pprof. This year I can say I'm as comfortable with both as the Go language itself thanks to building a couple of long lived data collection and transformation services.
 
 This super short post is about a patch which modifies `gops` so that it can export JSON data from the embedded agent which lives in your application, to the `gops` client which then publishes the data to InfluxDB.
