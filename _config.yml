@@ -7,31 +7,31 @@ highlighter: pygments
 markdown: kramdown
 disqus: arsonistgopher
 google_analytics: UA-101738033-1
-title: The Arsonist Gopher
+title: The Network Automaniac
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: The Arsonist Gopher
+      title: The Network Automaniac
 
-description: Arsonist Gopher Blog
+description: Network Automatiac Blog
 author:
-  name: David Gee
-  email: david@arsonistgopher.com
-  github: arsonistgopher
-  twitter: arsonistgopher
-  linkedin: arsonistgopher
-  bio: Software and automation blog, asking hard questions and attempting burn avoidance. 
-  email_md5: 267b70124655ed53bfb33ae155b6556e
+  name: Jeremy Schulman
+  email: jchulman@juniper.net
+  github: jeremyschulman
+  twitter: nwkautomainiac
+  linkedin: jeremyschulman
+  bio: Hacking our way out of the dark forest of broccoli despair 
+  email_md5: 728a3de4c1f8f6c205a81bffa2a61306
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
 # set it as url of an image
-# sidebar_background_image: https://secure.gravatar.com/avatar/267b70124655ed53bfb33ae155b6556e
+# sidebar_background_image: https://secure.gravatar.com/avatar/5f6f36c2176c3de4dad83933bbdb1524
 
 BASE_PATH:
 

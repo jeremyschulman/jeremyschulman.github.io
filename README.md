@@ -1,16 +1,16 @@
-# arsonistgopher.github.io
-Jekyll blog for arsonistgopher.com
+# jeremyschulman.github.io
+Jekyll blog for Jeremy Schulman (@nwkautomaniac)
 
 __License__
 
-The following directories and their contents are Copyright David Gee. You may not reuse anything therein without my permission:
+The following directories and their contents are Copyright Jeremy Schulman. You may not reuse anything therein without my permission:
 
 _posts/
 images/
 
 The rest us under MIT.
 
-Copyright (c) 2017 David Gee
+Copyright (c) 2018 Jeremy Schulman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
